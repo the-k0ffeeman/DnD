@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DnD/DnD.vcxproj" Id="a6c28417-3779-41a2-a0c6-f6edbb0b1ad2" />
+</Solution>
