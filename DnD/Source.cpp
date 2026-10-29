@@ -42,7 +42,7 @@ int main()
     MoveWindow(hwnd, rect.left, rect.top, rect.right - rect.left, rect.bottom - rect.top, TRUE);
     if (!RemoveConsoleScrollback())
     {
-        cout << "Could not resize console buffer: " << GetLastError() << '\n';
+        cout << "Could not resize console buffer: " << GetLastError() << "\n";
     }
 
     SetConsoleTitleA("DnD Style Combat");
